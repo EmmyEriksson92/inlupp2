@@ -1,6 +1,6 @@
 package application;
 
-//Emmy Eriksson,920910-3184
+//Emmy Eriksson.
 public class Position {
 
 	private double x;

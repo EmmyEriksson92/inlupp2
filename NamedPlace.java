@@ -1,6 +1,6 @@
 package application;
 
-//Emmmy Eriksson, 920910-3184
+//Emmmy Eriksson.
 import javafx.event.EventHandler;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;

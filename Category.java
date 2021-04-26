@@ -1,7 +1,7 @@
 package application;
 
 
-//Emmy Eriksson, 920910-3184
+//Emmy Eriksson.
 import javafx.scene.paint.Color;
 
 public class Category {

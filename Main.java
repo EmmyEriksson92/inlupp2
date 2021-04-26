@@ -1,6 +1,6 @@
 package application;
 
-//Emmy Eriksson, 920910-3184
+//Emmy Eriksson.
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
