@@ -4,6 +4,6 @@ This project was part of an assignment in the course: Programmering 2. The cours
 
 **About this program:**
 
-This program reads in places on a map where the user can click on the places to show description, name and position. The user can show and hide places based on different categories and also search for places on the map.
+The program allows the user to open a map (a background image)and with mouse clicks define places on the map. The places have names, can have a descriptive text and can belong to one of the three categories Bus, Underground or Train. They can also be without category. The places can be of two types: NamedPlace (has only one name) or DescribedPlace (has one name and a description). The user can show, hide, remove and search for places.
 
 *By Emmy Eriksson*
