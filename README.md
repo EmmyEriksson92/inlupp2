@@ -4,6 +4,6 @@ This project was part of an assignment in the course: Programmering 2. The cours
 
 **About this program:**
 
-This program reads in places on a map where the user can click on the places to show description, name and position. The user can also show places based on different categories.
+This program reads in places on a map where the user can click on the places to show description, name and position. The user can show and hide places based on different categories and also search for places on the map.
 
 *By Emmy Eriksson*
