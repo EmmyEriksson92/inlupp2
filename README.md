@@ -1,6 +1,6 @@
 # inlupp2
 
-This project was done as an examination work in the course: Programmering 2. The course was part of the program Data-och systemvetenskapligt kandidatprogram.
+This project was part of an assignment in the course: Programmering 2. The course was part of the program Data-och systemvetenskapligt kandidatprogram.
 
 **About this program:**
 
